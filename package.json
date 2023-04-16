@@ -1,6 +1,7 @@
 {
   "name": "github-host-demo",
   "private": false,
+  "homepage": "https://potatomat0.github.io/github-host-demo/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
